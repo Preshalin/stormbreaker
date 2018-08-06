@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "name": "chequeAccount",
+        "name": "ChequeAccount",
         "description": "Cheque Account"
     },
     {
         "id": 2,
-        "name": "creditCard",
+        "name": "CreditCard",
         "description": "Credit Card"
     }
 ]
