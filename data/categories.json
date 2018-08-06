@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Automobile",
+        "description": "Automobile"
+    },
+    {
+        "id": 2,
+        "name": "TakeOut",
+        "description": "Take Out"
+    },
+    {
+        "id": 3,
+        "name": "Spending",
+        "description": "Spending"
+    },
+    {
+        "id":4,
+        "name": "Medical",
+        "description": "Medical"
+    }
+]

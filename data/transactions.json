@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "date": "2018-08-06",
+    "description": "Petrol",
+    "amount": 500,
+    "account": {
+      "name": "ChequeAccount"
+    },
+    "categories": [{
+      "name": "Automobile"
+    }]
+  },
+  {
+    "id": 2,
+    "date": "2018-08-06",
+    "description": "Roco Momas",
+    "amount": 200,
+    "account": {
+      "name": "ChequeAccount"
+    },
+    "categories": [
+      {
+        "name": "TakeOut"
+      },
+      {
+        "name": "Spending"
+      }]
+  },
+  {
+    "id": 3,
+    "date": "2018-08-06",
+    "description": "Insurance",
+    "amount": 600,
+    "account": {
+      "name": "ChequeAccount"
+    },
+    "categories": [{
+      "name": "Automobile"
+    }]
+    
+  },
+  {
+    "id": 3,
+    "date": "2018-08-06",
+    "description": "Car Payment",
+    "amount": 2000,
+    "account": {
+      "name": "ChequeAccount"
+    },
+    "categories": [{
+      "name": "Automobile"
+    }]
+  },
+  {
+    "id": 3,
+    "date": "2018-08-06",
+    "description": "Medical Aid",
+    "amount": 2100,
+    "account": {
+      "name": "ChequeAccount"
+    },
+    "categories": [{
+      "name": "Medical"
+    }]
+  },
+  {
+    "id": 3,
+    "date": "2018-08-06",
+    "description": "Dinner",
+    "amount": 300,
+    "account": {
+      "name": "ChequeAccount"
+    },
+    "categories": [{
+      "name": "Spending"
+    }]
+  }
+]

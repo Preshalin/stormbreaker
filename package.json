@@ -1,0 +1,13 @@
+{
+  "name": "stormbreaker",
+  "main": "app.js",
+
+  "devDependencies": {
+    "nodemon": "^1.18.3",
+    "express": "~4.0.0"
+  },
+  "scripts": {
+    "start": "node ./src/app.js",
+    "debug": "nodemon --inspect ./src/app.js"
+  }
+}

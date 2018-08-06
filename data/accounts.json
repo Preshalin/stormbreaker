@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "chequeAccount",
+        "description": "Cheque Account"
+    },
+    {
+        "id": 2,
+        "name": "creditCard",
+        "description": "Credit Card"
+    }
+]
